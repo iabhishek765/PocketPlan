@@ -1,5 +1,5 @@
 
-# PocketPlan — Smart Budget Planner Using DAA
+# PocketPlan - Smart Budget Planner Using DAA
 
 **A Python + Streamlit application that applies Design and Analysis of Algorithms (DAA) concepts to real-world household budgeting.**
 
