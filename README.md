@@ -139,7 +139,7 @@ The Greedy approach ranks optional expenses according to their benefit per rupee
 
 **Limitation:** A locally optimal choice does not always produce the globally optimal combination for the 0/1 Knapsack problem.
 
-### 5. Dynamic Programming — 0/1 Knapsack
+### 5. Dynamic Programming - 0/1 Knapsack
 
 **Time Complexity:** `O(nW)`  
 **Space Complexity:** `O(nW)` for a conventional two-dimensional DP table.
