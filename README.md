@@ -428,4 +428,4 @@ PocketPlan was developed as a practical project to demonstrate Design and Analys
 
 ---
 
-**PocketPlan — Plan smarter. Spend consciously. Understand the algorithms behind every decision.**
+**PocketPlan - Plan smarter. Spend consciously. Understand the algorithms behind every decision.**
